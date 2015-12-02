@@ -20,6 +20,7 @@ public class AlumnoTest {
 	public void testSetNombre() {
 		Alumno a = new Alumno();
 		a.setNombre("David");
+		//assertTrue(if(a.getNombre().equals("David"));
 	}
 
 	@Test
